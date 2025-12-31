@@ -12,8 +12,16 @@ I enjoy learning new technologies and continuously improving my problem-solving 
 - Users (clients) can send booking requests to artists, and artists can manage these requests through their personalized dashboard.
 - 🔗 **Live Link:** https://akrit.vercel.app/
 
-![AKRIT Screenshot](assets/akrit1.png)
-![AKRIT Screenshot](assets/akrit2.png)
+<table width="100%" cellpadding="0" cellspacing="0">
+  <tr>
+    <td width="50%" align="center" style="padding-right:8px;">
+      <img src="assets/akrit1.png" width="100%"/>
+    </td>
+    <td width="50%" align="center" style="padding-left:8px;">
+      <img src="assets/akrit2.png" width="100%"/>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -21,8 +29,16 @@ I enjoy learning new technologies and continuously improving my problem-solving 
 - A web application that uses the **OpenRouter API** to generate complete HTML frontend code based on user input and website descriptions.
 - 🔗 **Live Link:** https://ai-website-generator-liard.vercel.app/
 
-![AI Website Generator Screenshot](assets/aiweb1.png)
-![AI Website Generator Screenshot](assets/aiweb2.png)
+<table width="100%" cellpadding="0" cellspacing="0">
+  <tr>
+    <td width="50%" align="center" style="padding-right:8px;">
+      <img src="assets/aiweb1.png" width="100%"/>
+    </td>
+    <td width="50%" align="center" style="padding-left:8px;">
+      <img src="assets/aiweb2.png" width="100%"/>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -31,8 +47,16 @@ I enjoy learning new technologies and continuously improving my problem-solving 
 - Features **drag-and-drop functionality** implemented using **React Pangea**.
 - 🔗 **Live Link:** https://project-management-sigma-rosy.vercel.app/
 
-![Project Management Screenshot](assets/projectManagement1.png)
-![Project Management Screenshot](assets/projectManagement2.png)
+<table width="100%" cellpadding="0" cellspacing="0">
+  <tr>
+    <td width="50%" align="center" style="padding-right:8px;">
+      <img src="assets/projectManagement1.png" width="100%"/>
+    </td>
+    <td width="50%" align="center" style="padding-left:8px;">
+      <img src="assets/projectManagement2.png" width="100%"/>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -41,8 +65,16 @@ I enjoy learning new technologies and continuously improving my problem-solving 
 - This version uses basic data-driven logic and will be improved further with machine learning.
 - 🔗 **Live Link:** https://movie-recommendation-pi-ten.vercel.app/
 
-![Movie Recommendation Screenshot](assets/movieRec1.png)
-![Movie Recommendation Screenshot](assets/movieRec2.png)
+<table width="100%" cellpadding="0" cellspacing="0">
+  <tr>
+    <td width="50%" align="center" style="padding-right:8px;">
+      <img src="assets/movieRec1.png" width="100%"/>
+    </td>
+    <td width="50%" align="center" style="padding-left:8px;">
+      <img src="assets/movieRec2.png" width="100%"/>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -50,8 +82,16 @@ I enjoy learning new technologies and continuously improving my problem-solving 
 - A personal portfolio showcasing my projects, achievements, skills, and background.
 - 🔗 **Live Link:** https://final-portfolio-six-gamma.vercel.app/
 
-![Portfolio Screenshot](assets/myPortfolio1.png)
-![Portfolio Screenshot](assets/myPortfolio2.png)
+<table width="100%" cellpadding="0" cellspacing="0">
+  <tr>
+    <td width="50%" align="center" style="padding-right:8px;">
+      <img src="assets/myPortfolio1.png" width="100%"/>
+    </td>
+    <td width="50%" align="center" style="padding-left:8px;">
+      <img src="assets/myPortfolio2.png" width="100%"/>
+    </td>
+  </tr>
+</table>
 
 ---
 
