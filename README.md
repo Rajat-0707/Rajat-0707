@@ -1,6 +1,12 @@
 # 💫 About Me:
 I am a mern stack and c++ developer.<br>i am a 3rd year btech student from deen banduchotu ram university of technology , murthal.<br>
 
+## MY PROJECTS: 
+
+# 1. AKRIT
+
+
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Rajat_) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rajat6248640@gmail.com) 
