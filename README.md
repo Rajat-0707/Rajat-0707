@@ -1,12 +1,59 @@
-# 💫 About Me:
-I am a mern stack and c++ developer.<br>i am a 3rd year btech student from deen banduchotu ram university of technology , murthal.<br>
+# 💫 About Me
 
-## MY PROJECTS: 
+I am a **MERN Stack** and **C++** developer with a strong interest in building real-world, user-focused applications.  
+I am currently a **3rd-year B.Tech student** at **Deen Bandhu Chhotu Ram University of Technology, Murthal**.  
+I enjoy learning new technologies and continuously improving my problem-solving and development skills.
 
-# 1. AKRIT
+---
 
+## 🚀 My Projects
 
+### 1️⃣ AKRIT
+- Users (clients) can send booking requests to artists, and artists can manage these requests through their personalized dashboard.
+- 🔗 **Live Link:** https://akrit.vercel.app/
 
+![AKRIT Screenshot](assets/akrit1.png)
+![AKRIT Screenshot](assets/akrit2.png)
+
+---
+
+### 2️⃣ AI Website Generator
+- A web application that uses the **OpenRouter API** to generate complete HTML frontend code based on user input and website descriptions.
+- 🔗 **Live Link:** https://ai-website-generator-liard.vercel.app/
+
+![AI Website Generator Screenshot](assets/aiweb1.png)
+![AI Website Generator Screenshot](assets/aiweb2.png)
+
+---
+
+### 3️⃣ Project Management App
+- A project management platform that helps users track pending projects and record progress.
+- Features **drag-and-drop functionality** implemented using **React Pangea**.
+- 🔗 **Live Link:** https://project-management-sigma-rosy.vercel.app/
+
+![Project Management Screenshot](assets/projectManagement1.png)
+![Project Management Screenshot](assets/projectManagement2.png)
+
+---
+
+### 4️⃣ Movie Recommendation System
+- A recommendation system that takes the user’s favorite movie and suggests similar movies using **Pandas** and **NumPy**.
+- This version uses basic data-driven logic and will be improved further with machine learning.
+- 🔗 **Live Link:** https://movie-recommendation-pi-ten.vercel.app/
+
+![Movie Recommendation Screenshot](assets/movieRec1.png)
+![Movie Recommendation Screenshot](assets/movieRec2.png)
+
+---
+
+### 5️⃣ My Portfolio Website
+- A personal portfolio showcasing my projects, achievements, skills, and background.
+- 🔗 **Live Link:** https://final-portfolio-six-gamma.vercel.app/
+
+![Portfolio Screenshot](assets/myPortfolio1.png)
+![Portfolio Screenshot](assets/myPortfolio2.png)
+
+---
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Rajat_) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rajat6248640@gmail.com) 
