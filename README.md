@@ -8,7 +8,7 @@ I enjoy learning new technologies and continuously improving my problem-solving 
 
 ## 🚀 My Projects
 
-### 1️⃣ AKRIT
+### 1️⃣ ArtistryConnect(AKRIT)
 - Users (clients) can send booking requests to artists, and artists can manage these requests through their personalized dashboard.
 - 🔗 **Live Link:** https://akrit.vercel.app/
 
